@@ -1,7 +1,7 @@
 # Sharing KV Caches Across Fine-Tuned Language Models with a Head-Wise Linear Map
 
-[![DOI](https://img.shields.io/badge/DOI-Zenodo-024dad.svg)](https://zenodo.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-Zenodo-024dad.svg)](https://doi.org/10.5281/zenodo.22853796)
+[![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-lightgrey.svg)](https://opensource.org/license/apache-2.0)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 
@@ -219,14 +219,18 @@ python research.py
 
 ## Citation
 
+Chaudhary, M. S. (2026). *Sharing KV Caches Across Fine-Tuned Language Models
+with a Head-Wise Linear Map*. Zenodo. https://doi.org/10.5281/zenodo.22853796
+
 ```bibtex
-@misc{chaudhary2026sharing,
-  title        = {Sharing KV Caches Across Fine-Tuned Language Models with a Head-Wise Linear Map},
-  author       = {Chaudhary, Mohammad Shahid},
-  year         = {2026},
-  month        = {sep},
-  note         = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+@misc{chaudhary2026kvsharing,
+  title     = {Sharing {KV} Caches Across Fine-Tuned Language Models with a Head-Wise Linear Map},
+  author    = {Chaudhary, Mohammad Shahid},
+  year      = {2026},
+  month     = sep,
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22853796},
+  url       = {https://doi.org/10.5281/zenodo.22853796},
+  note      = {Preprint}
 }
 ```
